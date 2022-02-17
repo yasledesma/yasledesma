@@ -2,11 +2,11 @@
 <h3 align="center">I'm a self-taught Frontend Web Developer from Argentina who mostly likes to learn new technologies, do algorithm exercises, and also do coding challenges.</h3>
 <br>
 
-| What I'm doing right now:                                                         |
-|--------------------------------------------------------------------------------------|
-| - 🔭 I’m currently working on [a todo app!](https://github.com/yasledesma/fem-todo/) |      
-| - 🌱 I’m currently learning **React in depth**                                       |   
-| - 📝 I regularly write articles on [my blog!](https://dev.to/yasledesma/)            |
+| What I'm doing right now: | Latest blog posts |
+|---------------------------|-------------------|
+| - 🔭 I’m currently working on [a todo app!](https://github.com/yasledesma/fem-todo/) | <!-- BLOG-POST-LIST:START --> |
+| - 🌱 I’m currently learning **React in depth** | - [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e) |
+| - 📝 I regularly write articles on [my blog!](https://dev.to/yasledesma/)| <!-- BLOG-POST-LIST:END --> |
 
 
 <br>
