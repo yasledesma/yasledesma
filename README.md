@@ -27,5 +27,5 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e)
 <!-- BLOG-POST-LIST:END -->
