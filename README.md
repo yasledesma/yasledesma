@@ -4,9 +4,9 @@
 
 | What I'm doing right now: | Latest blog posts |
 |---------------------------|-------------------|
-| - 🔭 I’m currently working on [a todo app!](https://github.com/yasledesma/fem-todo/) | <!-- BLOG-POST-LIST:START --> |
-| - 🌱 I’m currently learning **React in depth** | - [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e) |
-| - 📝 I regularly write articles on [my blog!](https://dev.to/yasledesma/)| <!-- BLOG-POST-LIST:END --> |
+| - 🔭 I’m currently working on [a todo app!](https://github.com/yasledesma/fem-todo/) | <!-- BLOG-POST-LIST:START -->
+- [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e)
+<!-- BLOG-POST-LIST:END --> |
 
 
 <br>
