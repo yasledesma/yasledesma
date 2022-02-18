@@ -24,13 +24,6 @@
 
 <br>
 
-## Some of my projects:
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="todo app" src="https://camo.githubusercontent.com/1521456c8a8d92de210809bab5023289cedf1a9f76c3468892eef4c534c290c0/68747470733a2f2f6e696d6275732d73637265656e73686f74732e73332e616d617a6f6e6177732e636f6d2f732f64343563303935376534653761656138656430366335636164336365633464642e706e67"> **Todo App** <br> [Repo](https://github.com/yasledesma/fem-todo) - [Live](https://eloquent-jennings-f7342d.netlify.app/) |  <img width="1604" alt="Art App" src="https://camo.githubusercontent.com/b30288a4b477013d8c339eb4f555e34689f3edd270bc25d94bc67c619e739d5d/68747470733a2f2f6e696d6275732d73637265656e73686f74732e73332e616d617a6f6e6177732e636f6d2f732f32623633363763663030616330626437376131643939653965653764633664312e706e67"> **Art App** <br> [Repo](https://github.com/yasledesma/art-fetcher) - [Live](https://silly-perlman-fb066a.netlify.app/)|<img width="1604" alt="Calculator App" src="https://camo.githubusercontent.com/cad8dc3b118caad5cedcd0450365ce3d3e58c4b57ed818992de5657186b0014c/68747470733a2f2f6e696d6275732d73637265656e73686f74732e73332e616d617a6f6e6177732e636f6d2f732f35623339393063326466656430386431613461363365313966343039663666642e706e67"> **Calculator App** <br> [Repo](https://github.com/yasledesma/fem__calculator) - [Live](https://elegant-elion-091f76.netlify.app/)|
-
-<br>
-
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e)
