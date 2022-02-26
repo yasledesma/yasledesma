@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://dev.to/yasledesma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yasledesma" height="30" width="40" /></a>
 <a href="https://twitter.com/yasledesm28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasledesm28" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yasledesma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yasledesma" height="30" width="40" /></a>
 </p>
 
 <br>
