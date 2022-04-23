@@ -4,8 +4,7 @@
 
 ## What I'm doing right now:
 - 🔭 I’m currently working on **sharpening my React skills!**
-- 🌱 I’m currently learning **the three.js library**
-- 📝 I regularly write articles on [my blog!](https://dev.to/yasledesma/) 
+- 🌱 I’m currently learning **Redux and Redux Thunk!**
 
 
 <br>
