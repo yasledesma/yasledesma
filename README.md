@@ -9,6 +9,17 @@
 
 <br>
 
+### Stack
+**Languages:** Go | JavaScript | PHP | Python
+
+**Backend:** Laravel | Nodejs | MySQL | REST
+
+**Frontend:** React | Nextjs | MaterialUI | Redux | Storybook | Figma
+
+**Other:** Git | Docker | AWS | Jest
+
+**Familiar:** Bash | A/B testing | GitlabCI/CD | OOP | TDD
+
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Built a Filterable To-do App in React](https://dev.to/yasledesma/built-a-filterable-to-do-app-in-react-4pon)
