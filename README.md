@@ -1,5 +1,5 @@
 ### Hey there!
-<img width="25%" align="left" alt="ghosts" src="https://i.imgur.com/aPSRhiw.png" />
+<img width="20%" align="left" alt="ghosts" src="https://i.imgur.com/aPSRhiw.png" />
 
 - **Software developer**. Really into **GNU/Linux**.
 - Currently interested in peer-to-peer distributed systems and networking.
@@ -19,6 +19,8 @@
 **Other:** Git | Docker | AWS | Jest
 
 **Familiar:** Bash | A/B testing | GitlabCI/CD | OOP | TDD
+
+<br>
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
