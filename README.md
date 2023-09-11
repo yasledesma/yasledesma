@@ -24,6 +24,9 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a Filterable To-do App in React](https://dev.to/yasledesma/built-a-filterable-to-do-app-in-react-4pon)
-- [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e)
+- [Testing things out for now](https://yasledesma.bearblog.dev/testing-things-out-for-now/)
+- [Built a Filterable To-do App in React](https://yasledesma.bearblog.dev/built-a-filterable-to-do-app-in-react/)
+- [Building a Calculator from Scratch in React](https://yasledesma.bearblog.dev/building-a-calculator-from-scratch-in-react-js/)
+- [Day 3/30: CSS Variables with JS #JavaScript30](https://yasledesma.bearblog.dev/day-330-css-variables-with-js-javascript30/)
+- [Day 2/30: JS and CSS Clock #JavaScript30](https://yasledesma.bearblog.dev/day-230-js-and-css-clock-javascript30/)
 <!-- BLOG-POST-LIST:END -->
