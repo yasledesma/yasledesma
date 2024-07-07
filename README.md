@@ -7,6 +7,9 @@
 - I also like to [blog](https://yasledesma.bearblog.dev/) sporadically and look at pretty pictures.
 - Contact me at **yasminledesma [at] proton.me**
 
+</br>
+</br>
+
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Testing things out for now](https://yasledesma.bearblog.dev/testing-things-out-for-now/)
