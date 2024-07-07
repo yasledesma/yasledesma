@@ -7,21 +7,6 @@
 - I also like to [blog](https://yasledesma.bearblog.dev/) sporadically and look at pretty pictures.
 - Contact me at **yasminledesma [at] proton.me**
 
-<br>
-
-### Stack
-**Languages:** Go | JavaScript | PHP | Python
-
-**Backend:** Laravel | Nodejs | MySQL | REST
-
-**Frontend:** React | Nextjs | MaterialUI | Redux | Storybook | Figma
-
-**Other:** Git | Docker | AWS | Jest
-
-**Familiar:** Bash | A/B testing | GitlabCI/CD | OOP | TDD
-
-<br>
-
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Testing things out for now](https://yasledesma.bearblog.dev/testing-things-out-for-now/)
