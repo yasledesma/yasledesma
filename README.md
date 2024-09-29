@@ -5,7 +5,6 @@
 - Currently interested in peer-to-peer distributed systems and networking.
 - I love to read (specially gothy stuff.) I rarely do it, though 😂
 - I also like to [blog](https://yasledesma.bearblog.dev/) sporadically and look at pretty pictures.
-- Contact me at **yasminledesma [at] proton.me**
 
 </br>
 </br>
